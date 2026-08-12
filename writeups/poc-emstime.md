@@ -2,6 +2,7 @@
 layout: page
 title: "poc-emstime — Grid Timing Anomaly Detection"
 permalink: /writeups/poc-emstime/
+nav_exclude: true
 ---
 
 *Repo: [github.com/tahovig/poc-emstime](https://github.com/tahovig/poc-emstime) — fourth in a series of portfolio projects supporting a pivot from software engineering into cybersecurity engineering. Long-term goal: satellite clock (GPS) anomaly detection for power-grid time synchronization infrastructure.*

@@ -2,6 +2,7 @@
 layout: page
 title: "poc-osint — Automated Subdomain Recon & Attack-Surface Drift Detection"
 permalink: /writeups/poc-osint/
+nav_exclude: true
 ---
 
 *Repo: [github.com/tahovig/poc-osint](https://github.com/tahovig/poc-osint) — first in a series of portfolio projects supporting a pivot from software engineering into cybersecurity engineering.*

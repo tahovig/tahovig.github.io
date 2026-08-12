@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Home
+nav_order: 1
 ---
 
 Hi, I'm Theodore "Alex" Hovig — a security-focused integration engineer

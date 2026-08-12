@@ -2,6 +2,7 @@
 layout: page
 title: Write-ups
 permalink: /writeups/
+nav_order: 2
 ---
 
 Per-project write-ups — threat model, methodology, findings — for the portfolio projects listed on [github.com/tahovig](https://github.com/tahovig).

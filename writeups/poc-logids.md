@@ -2,6 +2,7 @@
 layout: page
 title: "poc-logids — Log-Based SSH Brute-Force Detection"
 permalink: /writeups/poc-logids/
+nav_exclude: true
 ---
 
 *Repo: [github.com/tahovig/poc-logids](https://github.com/tahovig/poc-logids) — second in a series of portfolio projects supporting a pivot from software engineering into cybersecurity engineering.*
