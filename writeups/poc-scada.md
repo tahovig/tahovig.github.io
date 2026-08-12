@@ -2,7 +2,6 @@
 layout: page
 title: "poc-scada — DNP3 Protocol Deep-Packet Inspection"
 permalink: /writeups/poc-scada/
-nav_exclude: true
 ---
 
 *Repo: [github.com/tahovig/poc-scada](https://github.com/tahovig/poc-scada) — third in a series of portfolio projects supporting a pivot from software engineering into cybersecurity engineering, grounded in real critical-infrastructure-protection (energy generation/transmission/distribution, EMS) experience.*

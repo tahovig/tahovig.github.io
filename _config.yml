@@ -2,3 +2,11 @@ title: Theodore "Alex" Hovig
 description: Cybersecurity engineering write-ups and background
 theme: minima
 markdown: kramdown
+
+# GitHub Pages pins minima 2.5.1, whose header nav has no nav_exclude/nav_order
+# support (added in later minima releases) -- it only respects this whitelist,
+# defaulting to *every* page with a title when unset. Keep this in sync with
+# the pages that should appear in the top nav.
+header_pages:
+  - index.md
+  - writeups/index.md
